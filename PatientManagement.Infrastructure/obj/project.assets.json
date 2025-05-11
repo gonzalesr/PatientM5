@@ -2404,19 +2404,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Home\\.nuget\\packages\\": {}
+    "C:\\Users\\ThinkPad\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Home\\Documents\\GitHub\\nur-ms2024-m2-act-3-gonzalesr\\Patient\\PatientManagement.Infrastructure\\PatientManagement.Infrastructure.csproj",
+      "projectUniqueName": "D:\\repos\\PatientM5\\PatientManagement.Infrastructure\\PatientManagement.Infrastructure.csproj",
       "projectName": "PatientManagement.Infrastructure",
-      "projectPath": "C:\\Users\\Home\\Documents\\GitHub\\nur-ms2024-m2-act-3-gonzalesr\\Patient\\PatientManagement.Infrastructure\\PatientManagement.Infrastructure.csproj",
-      "packagesPath": "C:\\Users\\Home\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Home\\Documents\\GitHub\\nur-ms2024-m2-act-3-gonzalesr\\Patient\\PatientManagement.Infrastructure\\obj\\",
+      "projectPath": "D:\\repos\\PatientM5\\PatientManagement.Infrastructure\\PatientManagement.Infrastructure.csproj",
+      "packagesPath": "C:\\Users\\ThinkPad\\.nuget\\packages\\",
+      "outputPath": "D:\\repos\\PatientM5\\PatientManagement.Infrastructure\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Home\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\ThinkPad\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -2430,8 +2430,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\Home\\Documents\\GitHub\\nur-ms2024-m2-act-3-gonzalesr\\Patient\\PatientManagement.Application\\PatientManagement.Application.csproj": {
-              "projectPath": "C:\\Users\\Home\\Documents\\GitHub\\nur-ms2024-m2-act-3-gonzalesr\\Patient\\PatientManagement.Application\\PatientManagement.Application.csproj"
+            "D:\\repos\\PatientM5\\PatientManagement.Application\\PatientManagement.Application.csproj": {
+              "projectPath": "D:\\repos\\PatientM5\\PatientManagement.Application\\PatientManagement.Application.csproj"
             }
           }
         }
@@ -2482,7 +2482,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.408/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

@@ -3350,6 +3350,8 @@
         ".nupkg.metadata",
         ".signature.p7s",
         "LICENSE.md",
+        "Newtonsoft.Json.13.0.1.nupkg.sha512",
+        "Newtonsoft.Json.nuspec",
         "lib/net20/Newtonsoft.Json.dll",
         "lib/net20/Newtonsoft.Json.xml",
         "lib/net35/Newtonsoft.Json.dll",
@@ -3364,8 +3366,6 @@
         "lib/netstandard1.3/Newtonsoft.Json.xml",
         "lib/netstandard2.0/Newtonsoft.Json.dll",
         "lib/netstandard2.0/Newtonsoft.Json.xml",
-        "newtonsoft.json.13.0.1.nupkg.sha512",
-        "newtonsoft.json.nuspec",
         "packageIcon.png"
       ]
     },
@@ -6918,19 +6918,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Home\\.nuget\\packages\\": {}
+    "C:\\Users\\ThinkPad\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Home\\Documents\\GitHub\\nur-ms2024-m2-act-3-gonzalesr\\Patient\\PatientMangement.Test\\PatientMangement.Test.csproj",
+      "projectUniqueName": "D:\\repos\\PatientM5\\PatientMangement.Test\\PatientMangement.Test.csproj",
       "projectName": "PatientMangement.Test",
-      "projectPath": "C:\\Users\\Home\\Documents\\GitHub\\nur-ms2024-m2-act-3-gonzalesr\\Patient\\PatientMangement.Test\\PatientMangement.Test.csproj",
-      "packagesPath": "C:\\Users\\Home\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Home\\Documents\\GitHub\\nur-ms2024-m2-act-3-gonzalesr\\Patient\\PatientMangement.Test\\obj\\",
+      "projectPath": "D:\\repos\\PatientM5\\PatientMangement.Test\\PatientMangement.Test.csproj",
+      "packagesPath": "C:\\Users\\ThinkPad\\.nuget\\packages\\",
+      "outputPath": "D:\\repos\\PatientM5\\PatientMangement.Test\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Home\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\ThinkPad\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -6944,17 +6944,17 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\Home\\Documents\\GitHub\\nur-ms2024-m2-act-3-gonzalesr\\Patient\\Patient.Domain\\PatientManagement.Domain.csproj": {
-              "projectPath": "C:\\Users\\Home\\Documents\\GitHub\\nur-ms2024-m2-act-3-gonzalesr\\Patient\\Patient.Domain\\PatientManagement.Domain.csproj"
+            "D:\\repos\\PatientM5\\Patient.Domain\\PatientManagement.Domain.csproj": {
+              "projectPath": "D:\\repos\\PatientM5\\Patient.Domain\\PatientManagement.Domain.csproj"
             },
-            "C:\\Users\\Home\\Documents\\GitHub\\nur-ms2024-m2-act-3-gonzalesr\\Patient\\PatientManagement.Application\\PatientManagement.Application.csproj": {
-              "projectPath": "C:\\Users\\Home\\Documents\\GitHub\\nur-ms2024-m2-act-3-gonzalesr\\Patient\\PatientManagement.Application\\PatientManagement.Application.csproj"
+            "D:\\repos\\PatientM5\\PatientManagement.Application\\PatientManagement.Application.csproj": {
+              "projectPath": "D:\\repos\\PatientM5\\PatientManagement.Application\\PatientManagement.Application.csproj"
             },
-            "C:\\Users\\Home\\Documents\\GitHub\\nur-ms2024-m2-act-3-gonzalesr\\Patient\\PatientManagement.Infrastructure\\PatientManagement.Infrastructure.csproj": {
-              "projectPath": "C:\\Users\\Home\\Documents\\GitHub\\nur-ms2024-m2-act-3-gonzalesr\\Patient\\PatientManagement.Infrastructure\\PatientManagement.Infrastructure.csproj"
+            "D:\\repos\\PatientM5\\PatientManagement.Infrastructure\\PatientManagement.Infrastructure.csproj": {
+              "projectPath": "D:\\repos\\PatientM5\\PatientManagement.Infrastructure\\PatientManagement.Infrastructure.csproj"
             },
-            "C:\\Users\\Home\\Documents\\GitHub\\nur-ms2024-m2-act-3-gonzalesr\\Patient\\PatientManagement.WebApi\\PatientManagement.WebApi.csproj": {
-              "projectPath": "C:\\Users\\Home\\Documents\\GitHub\\nur-ms2024-m2-act-3-gonzalesr\\Patient\\PatientManagement.WebApi\\PatientManagement.WebApi.csproj"
+            "D:\\repos\\PatientM5\\PatientManagement.WebApi\\PatientManagement.WebApi.csproj": {
+              "projectPath": "D:\\repos\\PatientM5\\PatientManagement.WebApi\\PatientManagement.WebApi.csproj"
             }
           }
         }
@@ -7011,7 +7011,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.408/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
